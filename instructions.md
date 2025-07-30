@@ -33,3 +33,12 @@
 
 - write the setup.py file & also create requirements.txt file as well where you have to write all the lib req for this
 
+- after running the req.txt all things for this part is completed
+
+2 Src folder and build the package
+
+    - create a folder called components in src folder
+
+    - components will be modular building blocks for your machine learning pipeline
+
+    
