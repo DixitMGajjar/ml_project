@@ -1,5 +1,6 @@
 
 import sys # provides access to system-specific parameters and functions
+from src.logger import logging
 
 def error_message_detail(error,error_detail:sys):
     _,_,exe_tb= error_detail.exc_info()
